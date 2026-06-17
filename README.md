@@ -7,7 +7,7 @@
 ---
 
 ### Technical Focus & Research
-* **Scientific Computing:** Optimization of data-driven simulation frameworks in geothermal energy, and fluid dynamics. 
+* **Scientific Computing:** Optimization of data-driven simulation frameworks in geothermal energy and fluid dynamics. 
 * **Computational Modeling:** High-performance numerical analysis and PDE-based modeling utilizing Python and Julia.
 * **Data Pipelines:** Managing, processing, and benchmarking massive scientific datasets.
 
