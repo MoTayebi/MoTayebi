@@ -4,12 +4,11 @@
 
 ---
 
-### 💻 Technical Focus & Research
+###  Technical Focus & Research
 * **Scientific Computing:** Optimizing data-driven simulation frameworks in geothermal energy and fluid dynamics.
 * **Computational Modeling:** High-performance numerical analysis and PDE-based modeling utilizing `Python` and `Julia`.
-* **Data Pipelines:** Managing, processing, and benchmarking massive scientific datasets (`HDF5`, `NumPy`).
 
-### 🛠️ Core Infrastructure Stack
+###  Core Infrastructure Stack
 
 ```yaml
 orchestration_&_containers: [Kubernetes, Docker]
