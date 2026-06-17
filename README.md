@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mohammad Tayebi
 
-<!--
-**MoTayebi/MoTayebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer & Student Research Assistant**  
+*GFZ German Research Centre for Geosciences | TU Darmstadt*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Expertise
+* **HPC & Simulation:** Pipeline optimization and data-driven frameworks for massive scientific datasets (HDF5, NumPy).
+* **DevOps Infrastructure:** CI/CD design, Kubernetes orchestration, containerization, and automation.
+* **Technical Stack:** Python, Julia, C++, CUDA.
+
+> ⚙️ **Architecture Note:** The majority of my active infrastructure deployment, automation pipelines, and core codebase development occurs within institutional, self-hosted **GitLab** instances. This public GitHub workspace serves primarily as an integration hub for external academic collaborations, benchmarking, and open-source contributions.
