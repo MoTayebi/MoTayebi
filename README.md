@@ -1,7 +1,7 @@
 # Mohammad Tayebi
 
 **DevOps Engineer & Student Research Assistant**  
-*GFZ German Research Centre for Geosciences | TU Darmstadt*  
+* TU Darmstadt | GFZ German Research Centre for Geosciences*  
 *M.Sc. Information and Communication Engineering*
 
 ---
